@@ -158,5 +158,4 @@ Addressing these issues will significantly improve the overall security posture.
 ---
 👨‍💻 Author
     R Aravinth
-
 Cybersecurity Intern
